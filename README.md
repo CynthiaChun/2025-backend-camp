@@ -440,6 +440,9 @@ frontend/
 - 定期更換密鑰和密碼
 - 限制資料庫連線來源
 
+### 參考資料
+- API：https://liberating-turtle-5a2.notion.site/38e4dd6775894e94a8f575f20ca5b867?v=17c6a24685188105af61000cb9bfaa46
+
 ## 授權
 
 ISC
